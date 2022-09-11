@@ -1,0 +1,14 @@
+#include<iostream.h>
+#include<conio.h>
+#include<math.h>
+void main()
+{
+ clrscr();
+ int a=10;
+ int b=15;
+ float c=12.6;
+ cout<<a
+ cout<<b
+ cout<<
+ getch();
+}

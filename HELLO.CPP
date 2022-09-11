@@ -1,0 +1,13 @@
+/*
+first c++ program
+begins
+*/
+
+
+#include<iostream.h>
+int main()
+{
+   cout<<"hello";
+   cout<<"world";
+   return 0;
+}

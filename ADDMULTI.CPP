@@ -1,0 +1,20 @@
+
+#include<iostream.h>
+#include<conio.h>
+#include<math.h>
+void main()
+{
+  int a=10,b=5;
+  cout<<"a="<<a<<"b"<<b;
+  int add=a+b;
+  int sub=a-b;
+  int mul=a*b;
+  int div=a/b;
+  float rem=a%b;
+  cout<<"\n addition="<<add;
+  cout<<"\n subtract="<<sub;
+  cout<<"\n multiply="<<mul;
+  cout<<"\n divide="<<div;
+  cout<<"\n reminder="<<rem;
+  getch();
+}
